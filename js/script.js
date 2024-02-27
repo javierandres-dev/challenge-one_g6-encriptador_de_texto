@@ -75,4 +75,17 @@ function handleCopy() {
 gato => gaitober
 gaitober => gato
 fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober! => felicidades por enfrentar este desafio y haberlo concluido con exito!
+---
+encodeKeys = {
+  a: 'add',
+  e: 'ern',
+  i: 'ish',
+  o: 'orb',
+  u: 'usb',
+}
+
+mensaje => mernnsaddjern
+mernnsaddjern => mensaje
+
+fernlishcishdaddderns porbr ernnfrernntaddr ernstern dernsaddfishorb y haddbernrlorb corbnclusbishdorb corbn ernxishtorb!
 */
